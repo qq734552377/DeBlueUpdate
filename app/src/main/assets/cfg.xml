@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<config>
+<apk>
+<service>jni.ucab.ucast.deblue.MainService</service>
+<activity> </activity>
+<package>jni.ucab.ucast.deblue</package>
+<type>1</type>
+</apk>
+
+<apk>
+    <service>ucast.com.deblueupdate.UpdateService</service>
+    <activity> </activity>
+    <package>ucast.com.deblueupdate</package>
+    <type>1</type>
+</apk>
+</config>
